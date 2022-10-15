@@ -2,9 +2,9 @@
 
 Repositório para o módulo HTML do Bootcamp From Zero To Hero da Be Academy
 
-## HTML (HYPERTEXT MARKUP LANGUAGE)
+## HTML (HyperText Markup Language)
 
-Linguagem de marcação de Hipertextos
+Linguagem de Marcação de HiperTextos
 
 ### O HTML é o componente básico da web
 
